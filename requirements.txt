@@ -7,3 +7,4 @@ plotly.express
 numpy
 scikit-learn
 streamlit-option-menu
+googletrans==4.0.0-rc1
